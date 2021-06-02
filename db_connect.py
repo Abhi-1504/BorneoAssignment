@@ -4,13 +4,54 @@
 Module containing helper functions for connecting to elastic search
 """
 
-from connecters import es, es_index_name
+from connecters import es, es_index_name, columns
 from datetime import datetime
 from logger import log
+import pandas as pd
 
 
 def search_db(search_phrase):
-    pass
+    '''Searches the phrase in file text in the elasticsearch index
+    Param(s):
+        search_phrase (str)     :   Search Phrase that needs to be search in the index
+    Return(s):
+        df,True/False (tuple)   :   Returns a tuple consiting of Pandas DataFrame and boolean value indicating if not found in DB
+    '''
+    # Creating empty DataFrame
+    df = pd.DataFrame()
+    try:
+
+        log.info('Creating query to perform the search')
+        # Creating query for searching Elasticsearch
+        query = {
+        "_source": [columns[0], columns[-2]],
+        "query": {
+        "match": {
+        columns[1]: '*' + search_phrase.lower() + '*'
+        }
+        }
+        }
+
+        log.info(f'Searching the DB for {search_phrase}')
+        # query the db to search for the phrase
+        result = es.search(index=es_index_name, body=query)
+
+        # Checking if no matches found
+        if len(result['hits']['hits']) == 0:
+            log.info(f'No matches for {search_phrase}')
+            return df, True
+
+        log.info('Matches found in the DB')
+        # Extracting the required data from response
+        required_data = [data['_source'] for data in result['hits']['hits']]
+
+        # Returning the extracted data
+        return df.append(required_data, ignore_index=True), False
+
+    except Exception as e:
+        log.error(f'{str(e)}')
+        log.error(f'Search for {search_phrase} in DB failed')
+        return df, False
 
 
 def sync_db(df_dbx=None):
