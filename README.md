@@ -61,4 +61,4 @@ In config.ini file the following configuration needs to be done:
 ## NOTE to Evaluator
 --------------------
 
-To extract text from pdf, the solution is using pdftotext library, which is capable of extracting text from most of the pdf files. But since pdf has various types of encoding so their is a chance that the library won't be able to extract correctly encoded text from the pdf file.  
+To extract text from pdf, the solution is using pdftotext library, which is capable of extracting text from most of the pdf files. But since pdf has various types of encoding so their is a chance that the library won't be able to extract correctly encoded text from the all the pdf files.  
