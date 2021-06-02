@@ -56,15 +56,15 @@ def get_dropbox_files():
 
     try:
         # Getting the list of files in dropbox
-        df_dbx[columns[-1]] = [
+        df_dbx[columns['FILE_PATH']] = [
             file.path_display for file in dbx.files_list_folder("",).entries
         ]
 
         # Retriving all the required data for files
-        df_dbx[columns[:-1]] = df_dbx[columns[-1]].apply(__get_file_data)
+        df_dbx[list(columns.values())[:-1]] = df_dbx[columns['FILE_PATH']].apply(__get_file_data)
 
         # Re-arranging the dataframe columns
-        df_dbx = df_dbx[columns]
+        df_dbx = df_dbx[columns.values()]
 
         log.info("Fetching data from dropbox successful")
 
