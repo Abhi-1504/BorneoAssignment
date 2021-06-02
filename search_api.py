@@ -6,10 +6,9 @@ Module containing Backend API driver code
 
 
 from flask import Flask # For creating route and handling request
-from flask import request # For accessing request strings
-from dropbox_connect import get_dropbox_files # To retrieve file details from data
-from db_connect import sync_db, search_db
-from time import time
+from flask import request # For accessing request queries
+from dropbox_connect import get_dropbox_files # For dropbox operations
+from db_connect import sync_db, search_db # For elasticsearch operations
 
 
 # Creating Flask object
