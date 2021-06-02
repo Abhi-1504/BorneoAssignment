@@ -38,6 +38,7 @@ In config.ini file the following configuration needs to be done:
 * end_point     : Elasticsearch Cloud endpoint
 * username      : Elasticsearch Username
 * password      : Elasticsearch Password
+* index_name    : Elasticsearch index name
 
 ## Files
 --------
