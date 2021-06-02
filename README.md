@@ -24,10 +24,15 @@ The solution is using following python modules:
 * io
 * os
 * docx
+* json
 * flask
+* pandas
 * logging
+* dropbox
+* datetime
 * pdftotext
 * configparser
+* elasticsearch
 
 ## Configuration
 ----------------
@@ -51,3 +56,9 @@ In config.ini file the following configuration needs to be done:
 * logger.py           : Module containing logger
 * db_connect.py       : Module containing functions to perform elasticsearch related operations
 * dropbox_connect.py  : Module containing functions to perform dropbox related operations
+
+
+## NOTE to Evaluator
+--------------------
+
+To extract text from pdf, the solution is using pdftotext library, which is capable of extracting text from most of the pdf files. But since pdf has various types of encoding so their is a chance that the library won't be able to extract correctly encoded text from the pdf file.  
