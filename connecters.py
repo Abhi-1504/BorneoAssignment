@@ -4,6 +4,7 @@
 Module containing connectors to Elasticsearch DB and Dropbox
 """
 
+import json
 from dropbox import Dropbox  # To connect to dropbox API
 from configparser import RawConfigParser  # To load configuration
 from elasticsearch import Elasticsearch  # ElasticSearch ORM
@@ -28,9 +29,7 @@ es_password = config.get("elasticsearch", "password")
 es_index_name = config.get("elasticsearch", "index_name")
 
 # Extracting elasticsearch doc columns
-columns = [
-    column.strip() for column in config.get("elasticsearch", "doc_columns").split(",")
-]
+columns = json.loads(config.get("elasticsearch", "doc_columns"))
 
 # Creating Dropbox connector object
 dbx = Dropbox(dropbox_access_token)
