@@ -39,6 +39,7 @@ In config.ini file the following configuration needs to be done:
 * username      : Elasticsearch Username
 * password      : Elasticsearch Password
 * index_name    : Elasticsearch index name
+* doc_columns   : Configures Elasticsearch index doc attributes. Values inside the double quotes *__("")__* needs to be replaced by the desired column names. This setup is done to remove sequential dependencies on the column and to minimize the hardcoding of column names and changes required to make in future
 
 ## Files
 --------
