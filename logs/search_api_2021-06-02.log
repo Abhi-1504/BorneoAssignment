@@ -387,3 +387,70 @@
 2021-06-02 23:15:37,613 : INFO : db_connect : search_db : Matches found in the DB
 2021-06-02 23:15:37,615 : INFO : search_api : search : Files found containing chef
 2021-06-02 23:15:37,615 : INFO : _internal : _log : 127.0.0.1 - - [02/Jun/2021 23:15:37] "[37mGET /search?q=%22chef%22 HTTP/1.1[0m" 200 -
+2021-06-02 23:40:08,505 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\connecters.py', reloading
+2021-06-02 23:40:08,508 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\connecters.py', reloading
+2021-06-02 23:40:08,508 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\connecters.py', reloading
+2021-06-02 23:40:09,708 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-02 23:51:11,305 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-02 23:51:12,830 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-02 23:51:12,841 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-02 23:51:12,856 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-02 23:51:28,641 : INFO : search_api : search : Request received
+2021-06-02 23:51:28,641 : INFO : search_api : search : Search query received for chef
+2021-06-02 23:51:28,641 : INFO : search_api : search : Searching the DB
+2021-06-02 23:51:28,641 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-02 23:51:28,641 : INFO : db_connect : search_db : Searching the DB for chef
+2021-06-02 23:51:30,090 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:1.449s]
+2021-06-02 23:51:30,091 : INFO : db_connect : search_db : Matches found in the DB
+2021-06-02 23:51:30,092 : INFO : search_api : search : Files found containing chef
+2021-06-02 23:51:30,093 : INFO : _internal : _log : 127.0.0.1 - - [02/Jun/2021 23:51:30] "[37mGET /search?q=%22chef%22 HTTP/1.1[0m" 200 -
+2021-06-02 23:51:39,456 : INFO : search_api : search : Request received
+2021-06-02 23:51:39,457 : INFO : search_api : search : Search query received for anupma
+2021-06-02 23:51:39,457 : INFO : search_api : search : Searching the DB
+2021-06-02 23:51:39,457 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-02 23:51:39,457 : INFO : db_connect : search_db : Searching the DB for anupma
+2021-06-02 23:51:39,700 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:0.243s]
+2021-06-02 23:51:39,701 : INFO : db_connect : search_db : Matches found in the DB
+2021-06-02 23:51:39,703 : INFO : search_api : search : Files found containing anupma
+2021-06-02 23:51:39,705 : INFO : _internal : _log : 127.0.0.1 - - [02/Jun/2021 23:51:39] "[37mGET /search?q=%22anupma%22 HTTP/1.1[0m" 200 -
+2021-06-02 23:51:45,183 : INFO : search_api : search : Request received
+2021-06-02 23:51:45,183 : INFO : search_api : search : Search query received for the
+2021-06-02 23:51:45,183 : INFO : search_api : search : Searching the DB
+2021-06-02 23:51:45,184 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-02 23:51:45,184 : INFO : db_connect : search_db : Searching the DB for the
+2021-06-02 23:51:45,435 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:0.251s]
+2021-06-02 23:51:45,435 : INFO : db_connect : search_db : Matches found in the DB
+2021-06-02 23:51:45,438 : INFO : search_api : search : Files found containing the
+2021-06-02 23:51:45,439 : INFO : _internal : _log : 127.0.0.1 - - [02/Jun/2021 23:51:45] "[37mGET /search?q=%22the%22 HTTP/1.1[0m" 200 -
+2021-06-02 23:52:04,546 : INFO : search_api : search : Request received
+2021-06-02 23:52:04,546 : INFO : search_api : search : Search query received for xyzcsvjc jhvJCHvahj
+2021-06-02 23:52:04,546 : INFO : search_api : search : Searching the DB
+2021-06-02 23:52:04,547 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-02 23:52:04,547 : INFO : db_connect : search_db : Searching the DB for xyzcsvjc jhvJCHvahj
+2021-06-02 23:52:04,787 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:0.240s]
+2021-06-02 23:52:04,787 : INFO : db_connect : search_db : No matches for xyzcsvjc jhvJCHvahj
+2021-06-02 23:52:04,787 : WARNING : search_api : search : No files found in db containing xyzcsvjc jhvJCHvahj
+2021-06-02 23:52:04,787 : INFO : _internal : _log : 127.0.0.1 - - [02/Jun/2021 23:52:04] "[33mGET /search?q=%22xyzcsvjc%20jhvJCHvahj%22 HTTP/1.1[0m" 404 -
+2021-06-03 00:00:02,489 : INFO : search_api : search : Request received
+2021-06-03 00:00:02,489 : INFO : search_api : search : Search query received for xyzcsvjc jhvJCHvahj
+2021-06-03 00:00:02,489 : INFO : search_api : search : Searching the DB
+2021-06-03 00:00:02,490 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 00:00:02,490 : INFO : db_connect : search_db : Searching the DB for xyzcsvjc jhvJCHvahj
+2021-06-03 00:00:03,846 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:1.357s]
+2021-06-03 00:00:05,450 : INFO : db_connect : search_db : No matches for xyzcsvjc jhvJCHvahj
+2021-06-03 00:00:05,450 : WARNING : search_api : search : No files found in db containing xyzcsvjc jhvJCHvahj
+2021-06-03 00:00:05,451 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 00:00:05] "[33mGET /search?q=%22xyzcsvjc%20jhvJCHvahj%22 HTTP/1.1[0m" 404 -
+2021-06-03 00:00:25,301 : INFO : search_api : search : Request received
+2021-06-03 00:00:25,301 : INFO : search_api : search : Search query received for Abhilash Raj
+2021-06-03 00:00:25,301 : INFO : search_api : search : Searching the DB
+2021-06-03 00:00:25,302 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 00:00:25,302 : INFO : db_connect : search_db : Searching the DB for Abhilash Raj
+2021-06-03 00:00:25,535 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:0.233s]
+2021-06-03 00:00:25,536 : INFO : db_connect : search_db : Matches found in the DB
+2021-06-03 00:00:25,536 : INFO : search_api : search : Files found containing Abhilash Raj
+2021-06-03 00:00:25,537 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 00:00:25] "[37mGET /search?q=%22Abhilash%20Raj%22 HTTP/1.1[0m" 200 -
+2021-06-03 00:02:28,257 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\search_api.py', reloading
+2021-06-03 00:02:28,257 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\search_api.py', reloading
+2021-06-03 00:02:28,257 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\search_api.py', reloading
+2021-06-03 00:02:29,396 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 00:07:55,928 : INFO : _internal : _log :  * Restarting with windowsapi reloader
