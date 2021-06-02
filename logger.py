@@ -7,6 +7,10 @@ and log file directory
 
 import os
 import logging
+from datetime import datetime
+
+# Today's date as string
+today = datetime.today().strftime('%Y-%m-%d')
 
 # Creating directory to store log
 if not os.path.exists("logs"):
@@ -15,11 +19,11 @@ if not os.path.exists("logs"):
 # Format for logging
 formatter = "%(asctime)s : %(levelname)s : %(module)s : %(funcName)s : %(message)s"
 
-# Setting up logger
+# Setting up logger based on date
 logging.basicConfig(
     format=formatter,
     level=logging.INFO,
-    filename=os.path.join(os.getcwd(), "logs/controller.log"),
+    filename=os.path.join(os.getcwd(), f"logs/search_api_{today}.log"),
     filemode="a",
 )
 
