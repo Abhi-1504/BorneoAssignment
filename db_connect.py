@@ -24,10 +24,10 @@ def search_db(search_phrase):
         log.info('Creating query to perform the search')
         # Creating query for searching Elasticsearch
         query = {
-        "_source": [columns[0], columns[-2]],
+        "_source": [columns['FILE_NAME'], columns['SHAREABLE_LINK']],
         "query": {
         "match": {
-        columns[1]: '*' + search_phrase.lower() + '*'
+        columns['FILE_TEXT']: '*' + search_phrase.lower() + '*'
         }
         }
         }
