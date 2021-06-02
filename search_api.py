@@ -10,10 +10,14 @@ from flask import request # For accessing request strings
 from dropbox_connect import get_dropbox_files # To retrieve file details from data
 from db_connect import sync_db, search_db
 from time import time
-from logger import log
+
 
 # Creating Flask object
 app = Flask(__name__)
+
+def logger():
+    from logger import log
+    return log
 
 def create_response():
     '''Creates response template'''
@@ -22,6 +26,8 @@ def create_response():
 @app.route('/search')
 def search():
     '''API endpoint for searching phrase in DB'''
+    # loading logger
+    log = logger()
 
     log.info('Request received')
 
@@ -29,7 +35,7 @@ def search():
     if 'q' not in request.args:
         log.error(f'No query found in request')
 
-        # Creating custom response
+        # Creating bad request response
         response = create_response()
         response['Message'] = 'No query in request'
 
@@ -39,6 +45,17 @@ def search():
     # Extracting the search phrase from the query
     search_phrase = request.args.get('q').replace('"', '')
     log.info(f'Search query received for {search_phrase}')
+
+    # Checking if the search_phrase is empty
+    if search_phrase == '':
+        log.error(f'No search phrase in query')
+
+        # Creating bad request response
+        response = create_response()
+        response['Message'] = 'No value in query'
+
+        # Returning bad request response
+        return response, 400
 
     log.info('Searching the DB')
     # Calling the search function from db connect
