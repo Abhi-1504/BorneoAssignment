@@ -47,3 +47,1202 @@
 2021-06-03 00:09:20,014 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
 2021-06-03 00:09:20,029 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 2021-06-03 00:10:01,144 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\search_api.py', reloading
+2021-06-03 00:10:03,764 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 00:10:03,771 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 00:10:03,786 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 00:39:14,318 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\search_api.py', reloading
+2021-06-03 00:39:14,319 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\search_api.py', reloading
+2021-06-03 00:39:17,921 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 00:39:17,930 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 00:39:17,951 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 00:44:31,348 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\extract_text.py', reloading
+2021-06-03 00:44:35,736 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 00:44:35,744 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 00:44:35,765 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 00:50:35,129 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\connecters.py', reloading
+2021-06-03 21:28:31,734 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 21:28:31,830 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 21:28:31,830 : INFO : base : start : Scheduler started
+2021-06-03 21:28:31,927 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:28:34,869 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 21:28:34,870 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 21:28:34,870 : INFO : base : start : Scheduler started
+2021-06-03 21:28:34,878 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:28:34,885 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:28:34,905 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:29:08,683 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2021-06-03 21:29:08,689 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+2021-06-03 21:29:08,697 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:29:08] "[35m[1mGET /sync HTTP/1.1[0m" 500 -
+2021-06-03 21:29:08,794 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:29:08] "[37mGET /sync?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-06-03 21:29:08,935 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:29:08] "[37mGET /sync?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-06-03 21:29:09,107 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:29:09] "[37mGET /sync?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-06-03 21:29:09,672 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:29:09] "[37mGET /sync?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-06-03 21:29:09,760 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:29:09] "[37mGET /sync?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-06-03 21:29:09,935 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:29:09] "[37mGET /sync?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-06-03 21:29:10,489 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:29:13,650 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 21:29:13,650 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 21:29:13,650 : INFO : base : start : Scheduler started
+2021-06-03 21:29:13,659 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:29:13,670 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:29:13,698 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:30:05,100 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:30:05,101 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:30:06,362 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:30:09,319 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 21:30:09,319 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 21:30:09,320 : INFO : base : start : Scheduler started
+2021-06-03 21:30:09,328 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:30:09,334 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:30:09,353 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:30:10,162 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:30:10,163 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:30:11,475 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:30:18,233 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 21:30:18,233 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 21:30:18,233 : INFO : base : start : Scheduler started
+2021-06-03 21:30:18,261 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:30:20,743 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 21:30:20,744 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 21:30:20,744 : INFO : base : start : Scheduler started
+2021-06-03 21:30:20,758 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:30:20,772 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:30:20,804 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:30:40,853 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:30:40] "[31m[1mGET /sync HTTP/1.1[0m" 406 -
+2021-06-03 21:30:41,054 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:30:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-06-03 21:31:45,725 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:31:45] "[31m[1mGET /sync HTTP/1.1[0m" 406 -
+2021-06-03 21:35:28,375 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:35:29,832 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:35:29,839 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:35:29,854 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:35:34,027 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:35:34] "[31m[1mGET /sync HTTP/1.1[0m" 406 -
+2021-06-03 21:35:39,415 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:35:39] "[31m[1mGET /sync HTTP/1.1[0m" 406 -
+2021-06-03 21:35:41,846 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:35:41] "[31m[1mGET /sync HTTP/1.1[0m" 406 -
+2021-06-03 21:36:55,977 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:36:55,977 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:36:57,126 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:36:59,417 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:36:59,424 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:36:59,440 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:37:14,136 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:37:15,598 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:37:15,604 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:37:15,622 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:37:20,097 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 21:37:20,110 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 21:37:20,115 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\__pycache__\\netrc.cpython-37.pyc', reloading
+2021-06-03 21:37:20,122 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\__pycache__\\shlex.cpython-37.pyc', reloading
+2021-06-03 21:37:20,912 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:37:20,912 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 21:37:21,433 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:37:23,072 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:37:23,079 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:37:23,097 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:37:23,269 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:37:23] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:37:48,078 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:37:48] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:37:53,619 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:37:53] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:38:12,935 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:38:12] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:38:15,220 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:38:15] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:38:21,892 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:38:21] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:38:23,789 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:38:23] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:38:25,840 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:38:25] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:38:28,611 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:38:28] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:38:31,084 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:38:31] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:38:38,239 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:38:38] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:38:40,750 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:38:40] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:38:42,843 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:38:42] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:38:45,127 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:38:45] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:39:28,628 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:39:28] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:39:30,141 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:39:30] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:39:33,106 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:39:33] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:39:35,824 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:39:35] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:39:37,982 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:39:37] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:39:41,923 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:39:41] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:39:42,237 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:39:42] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:39:43,057 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:39:43] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:39:43,673 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:39:43] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:39:43,989 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:39:43] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:39:44,244 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:39:44] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:41:11,215 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:41:11,215 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:41:12,352 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:41:13,901 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:41:13,908 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:41:13,924 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:41:23,213 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:41:24,676 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:41:24,683 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:41:24,700 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:42:00,997 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\json\\__init__.py', reloading
+2021-06-03 21:42:00,998 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\json\\decoder.py', reloading
+2021-06-03 21:42:00,998 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:42:00] "[35m[1mGET /sync HTTP/1.1[0m" 500 -
+2021-06-03 21:42:01,015 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:42:01] "[37mGET /sync?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-06-03 21:42:01,240 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:42:01] "[37mGET /sync?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-06-03 21:42:01,317 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:42:01] "[37mGET /sync?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-06-03 21:42:01,678 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:42:01] "[37mGET /sync?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-06-03 21:42:01,722 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:42:01] "[37mGET /sync?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-06-03 21:42:01,944 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:42:01] "[37mGET /sync?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-06-03 21:42:02,136 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:42:03,626 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:42:03,633 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:42:03,648 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:42:19,195 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:42:20,753 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:42:20,760 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:42:20,778 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:42:27,283 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 21:42:27,285 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 21:42:28,133 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:42:28,133 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 21:42:29,501 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:42:29,921 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:42:29,921 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 21:42:30,493 : ERROR : dropbox_connect : get_dropbox_files : AuthError('4b337b6a24144311ad9407e7e1b5bd4d', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 21:42:30,493 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 21:42:30,493 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 21:42:31,852 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:1.359s]
+2021-06-03 21:42:31,852 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 21:42:32,121 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.268s]
+2021-06-03 21:42:32,122 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 21:42:32,122 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 21:42:32,148 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\pandas\\core\\__pycache__\\apply.cpython-37.pyc', reloading
+2021-06-03 21:42:32,455 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 21:42:32,738 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.283s]
+2021-06-03 21:42:33,043 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 21:42:33,313 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:42:35,019 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:42:35,026 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:42:35,042 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:42:35,159 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:42:35] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:47:37,265 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:47:37,265 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:47:38,428 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:48:51,537 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 21:48:51,539 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 21:48:52,357 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:48:52,357 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 21:48:53,358 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:48:53,677 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:48:53,677 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 21:48:54,010 : ERROR : dropbox_connect : get_dropbox_files : AuthError('f63bc2364d6543eb85b649b815de04c2', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 21:48:54,010 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 21:48:54,010 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 21:48:55,404 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:1.395s]
+2021-06-03 21:48:55,404 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 21:48:55,712 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.307s]
+2021-06-03 21:48:55,712 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 21:48:55,712 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 21:48:55,971 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.234s]
+2021-06-03 21:48:56,225 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.253s]
+2021-06-03 21:48:56,532 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 21:48:56,838 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 21:48:57,071 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.232s]
+2021-06-03 21:48:57,352 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.281s]
+2021-06-03 21:48:57,657 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 21:48:57,965 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 21:48:58,275 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.309s]
+2021-06-03 21:48:58,287 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 21:48:58,287 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 21:50:27,291 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:50:28,752 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:50:28,770 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:50:28,786 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:50:32,827 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:50:32] "[35m[1mGET /sync HTTP/1.1[0m" 500 -
+2021-06-03 21:51:05,994 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:51:05,994 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:51:07,142 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:51:08,590 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:51:08,597 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:51:08,611 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:51:29,279 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:51:29,279 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 21:51:30,435 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:51:31,914 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:51:31,920 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:51:31,936 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:51:38,494 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 21:51:39,928 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 21:51:39,935 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 21:51:39,956 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 21:51:44,845 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 21:51:44,846 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 21:51:45,739 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:51:45,740 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 21:51:46,822 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:51:47,148 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:51:47,148 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 21:51:47,539 : ERROR : dropbox_connect : get_dropbox_files : AuthError('5d77cb9bdb944adab672ead9a6f7ca3b', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 21:51:47,539 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 21:51:47,540 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 21:51:48,856 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:51:48] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:51:49,145 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:1.605s]
+2021-06-03 21:51:49,145 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 21:51:49,402 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.256s]
+2021-06-03 21:51:49,402 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 21:51:49,402 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 21:51:49,692 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.287s]
+2021-06-03 21:51:50,001 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 21:51:50,304 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.302s]
+2021-06-03 21:51:50,555 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.251s]
+2021-06-03 21:51:50,816 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.261s]
+2021-06-03 21:51:51,123 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 21:51:51,432 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.309s]
+2021-06-03 21:51:51,840 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.408s]
+2021-06-03 21:51:52,112 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.272s]
+2021-06-03 21:51:52,113 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 21:51:52,113 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 21:51:52,114 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:51:52] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 21:52:00,098 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 21:52:00,099 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 21:52:00,553 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:52:00,554 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 21:52:01,183 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:52:01,286 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:52:01,286 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 21:52:01,670 : ERROR : dropbox_connect : get_dropbox_files : AuthError('dbe0e08b3c314ef4a07eb012feb69587', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 21:52:01,670 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 21:52:01,670 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 21:52:02,083 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:0.412s]
+2021-06-03 21:52:02,083 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 21:52:02,411 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.329s]
+2021-06-03 21:52:02,411 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 21:52:02,411 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 21:52:02,694 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.281s]
+2021-06-03 21:52:03,003 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.310s]
+2021-06-03 21:52:03,256 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.252s]
+2021-06-03 21:52:03,513 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.257s]
+2021-06-03 21:52:03,763 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.249s]
+2021-06-03 21:52:04,009 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.245s]
+2021-06-03 21:52:04,200 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:52:04] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:52:04,323 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.314s]
+2021-06-03 21:52:04,638 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.315s]
+2021-06-03 21:52:04,938 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.301s]
+2021-06-03 21:52:04,939 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 21:52:04,939 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 21:52:04,940 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:52:04] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 21:55:16,400 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 21:55:16,400 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 21:55:17,460 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:55:17,461 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 21:55:18,559 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:55:18,943 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:55:18,944 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 21:55:19,348 : ERROR : dropbox_connect : get_dropbox_files : AuthError('1154a00e9d3e429d988355b73dbd0675', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 21:55:19,348 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 21:55:19,349 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 21:55:19,610 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:0.261s]
+2021-06-03 21:55:19,610 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 21:55:19,915 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.305s]
+2021-06-03 21:55:19,915 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 21:55:19,915 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 21:55:20,224 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 21:55:20,531 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 21:55:20,838 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 21:55:21,146 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 21:55:21,454 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 21:55:21,759 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 21:55:22,004 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.245s]
+2021-06-03 21:55:22,271 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.266s]
+2021-06-03 21:55:22,271 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 21:55:22,271 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 21:55:22,272 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:55:22] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 21:55:23,383 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 21:55:23,385 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 21:55:23,811 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:55:23,811 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 21:55:24,526 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:55:24,859 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:55:24,860 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 21:55:25,246 : ERROR : dropbox_connect : get_dropbox_files : AuthError('de36bb170872438aa8125b845b34ae4e', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 21:55:25,247 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 21:55:25,247 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 21:55:25,549 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:0.301s]
+2021-06-03 21:55:25,549 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 21:55:25,845 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.296s]
+2021-06-03 21:55:25,846 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 21:55:25,847 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 21:55:26,163 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.311s]
+2021-06-03 21:55:26,471 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 21:55:26,776 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.304s]
+2021-06-03 21:55:27,085 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.309s]
+2021-06-03 21:55:27,391 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.304s]
+2021-06-03 21:55:27,699 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 21:55:27,987 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.287s]
+2021-06-03 21:55:28,314 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.326s]
+2021-06-03 21:55:28,314 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 21:55:28,314 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 21:55:28,315 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:55:28] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 21:55:29,962 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 21:55:29,964 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 21:55:30,568 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:55:30,568 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 21:55:31,165 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:55:31,399 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 21:55:31,399 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 21:55:31,762 : ERROR : dropbox_connect : get_dropbox_files : AuthError('7fa626c8c52641ef920bb06c15eb97f2', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 21:55:31,762 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 21:55:31,763 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 21:55:32,103 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:0.339s]
+2021-06-03 21:55:32,104 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 21:55:32,408 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.305s]
+2021-06-03 21:55:32,408 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 21:55:32,408 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 21:55:32,718 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 21:55:33,025 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 21:55:33,271 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.245s]
+2021-06-03 21:55:33,516 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.245s]
+2021-06-03 21:55:33,842 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.326s]
+2021-06-03 21:55:34,088 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.246s]
+2021-06-03 21:55:34,095 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:55:34] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 21:55:34,337 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.247s]
+2021-06-03 21:55:34,585 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.247s]
+2021-06-03 21:55:34,587 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 21:55:34,588 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 21:55:34,589 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 21:55:34] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 22:02:57,674 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:02:57,674 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:02:58,854 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:03:01,407 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:03:01,415 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:03:01,433 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:03:03,856 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 22:03:03,858 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 22:03:04,714 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:03:04,714 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 22:03:05,584 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:03:05,854 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:03:05,855 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 22:03:06,244 : ERROR : dropbox_connect : get_dropbox_files : AuthError('661daceba2684490821951d929d9e7ad', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 22:03:06,244 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 22:03:06,245 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 22:03:07,806 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:1.561s]
+2021-06-03 22:03:07,807 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 22:03:08,195 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.388s]
+2021-06-03 22:03:08,196 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 22:03:08,196 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 22:03:08,497 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.284s]
+2021-06-03 22:03:08,806 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 22:03:09,112 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 22:03:09,420 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 22:03:09,727 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 22:03:10,035 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 22:03:10,342 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 22:03:10,648 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 22:03:10,890 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.241s]
+2021-06-03 22:03:10,891 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 22:03:10,891 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 22:03:10,893 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:03:10] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 22:03:48,190 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 22:03:48,191 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 22:03:48,649 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:03:48,649 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 22:03:49,478 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:03:49,709 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:03:49,710 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 22:03:50,084 : ERROR : dropbox_connect : get_dropbox_files : AuthError('bf5f1c646dde406fa75fadb74f4a318b', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 22:03:50,084 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 22:03:50,084 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 22:03:50,482 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:0.398s]
+2021-06-03 22:03:50,482 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 22:03:50,791 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.309s]
+2021-06-03 22:03:50,791 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 22:03:50,791 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 22:03:51,097 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 22:03:51,404 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 22:03:51,710 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 22:03:52,017 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 22:03:52,325 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 22:03:52,634 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.309s]
+2021-06-03 22:03:52,942 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 22:03:53,251 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.309s]
+2021-06-03 22:03:53,553 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.301s]
+2021-06-03 22:03:53,554 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 22:03:53,554 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 22:03:53,555 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:03:53] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 22:04:39,117 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:04:39,117 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:04:40,259 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:04:41,820 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:04:41,826 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:04:41,841 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:04:52,124 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:04:53,588 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:04:53,595 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:04:53,613 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:05:26,763 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 22:05:26,764 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 22:05:27,561 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:05:27,562 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 22:05:28,480 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:05:28,780 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:05:28,781 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 22:05:29,197 : ERROR : dropbox_connect : get_dropbox_files : AuthError('c35132b9bdad4f6fabb26e22bb09fedc', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 22:05:29,197 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 22:05:29,198 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 22:05:30,629 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:1.431s]
+2021-06-03 22:05:30,630 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 22:05:31,196 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.566s]
+2021-06-03 22:05:31,197 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 22:05:31,197 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 22:05:31,447 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.247s]
+2021-06-03 22:05:31,757 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.310s]
+2021-06-03 22:05:32,063 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 22:05:32,370 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 22:05:32,678 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 22:05:32,984 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 22:05:33,291 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 22:05:33,598 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 22:05:33,905 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 22:05:33,907 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 22:05:33,908 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 22:05:33,912 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:05:33] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 22:06:13,310 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\search_api.py', reloading
+2021-06-03 22:06:13,310 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\search_api.py', reloading
+2021-06-03 22:06:14,461 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:06:15,923 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:06:15,930 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:06:15,952 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:06:27,843 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\search_api.py', reloading
+2021-06-03 22:06:27,843 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\search_api.py', reloading
+2021-06-03 22:06:28,999 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:06:30,490 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:06:30,497 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:06:30,517 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:06:47,165 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 22:06:47,166 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 22:06:47,946 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:06:47,946 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 22:06:48,940 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:06:49,329 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:06:49,329 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 22:06:49,439 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:06:49] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 22:06:49,815 : ERROR : dropbox_connect : get_dropbox_files : AuthError('5fc0581b69eb444eaa0fe11ae2ec6ac3', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 22:06:49,815 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 22:06:49,816 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 22:06:51,216 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:1.400s]
+2021-06-03 22:06:51,217 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 22:06:52,243 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:1.025s]
+2021-06-03 22:06:52,243 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 22:06:52,244 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 22:06:52,549 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.296s]
+2021-06-03 22:06:52,855 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 22:06:53,162 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 22:06:53,470 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 22:06:53,707 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.235s]
+2021-06-03 22:06:53,982 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.274s]
+2021-06-03 22:06:54,291 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 22:06:54,597 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 22:06:54,904 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 22:06:54,905 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 22:06:54,905 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 22:06:54,908 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:06:54] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 22:07:34,656 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:07:34,656 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:07:35,794 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:07:37,251 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:07:37,258 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:07:37,273 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:07:50,563 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:07:52,036 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:07:52,042 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:07:52,064 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:07:58,290 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:07:58] "[31m[1mGET /sync HTTP/1.1[0m" 406 -
+2021-06-03 22:09:29,866 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:09:31,292 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:09:31,299 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:09:31,315 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:09:39,674 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:09:39] "[35m[1mGET /sync HTTP/1.1[0m" 500 -
+2021-06-03 22:09:42,002 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:09:42] "[35m[1mGET /sync HTTP/1.1[0m" 500 -
+2021-06-03 22:10:59,591 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:10:59,592 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:11:00,735 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:11:02,212 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:11:02,218 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:11:02,233 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:11:07,982 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:11:09,455 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:11:09,462 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:11:09,480 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:20:39,879 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:20:39] "[31m[1mGET /sync HTTP/1.1[0m" 406 -
+2021-06-03 22:20:49,014 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:20:49] "[31m[1mGET /sync HTTP/1.1[0m" 406 -
+2021-06-03 22:22:14,031 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:22:14,032 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:22:15,211 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:22:17,750 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:22:17,760 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:22:17,780 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:22:29,774 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:22:29] "[31m[1mGET /sync HTTP/1.1[0m" 406 -
+2021-06-03 22:22:43,379 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:22:43,379 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:22:44,529 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:22:45,960 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:22:45,967 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:22:45,981 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:22:53,371 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 22:22:53,385 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 22:22:54,622 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:22:54,623 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 22:22:56,048 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:22:56,546 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:22:56,547 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 22:22:56,951 : ERROR : dropbox_connect : get_dropbox_files : AuthError('ae0347708a0c4ef9a95463c70f56a488', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 22:22:56,951 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 22:22:56,951 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 22:22:57,017 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:22:57] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 22:22:58,386 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:1.433s]
+2021-06-03 22:22:58,387 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 22:22:58,695 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.308s]
+2021-06-03 22:22:58,695 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 22:22:58,695 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 22:22:58,999 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.285s]
+2021-06-03 22:22:59,307 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 22:22:59,613 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 22:22:59,919 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 22:23:00,155 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.236s]
+2021-06-03 22:23:00,431 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.276s]
+2021-06-03 22:23:00,666 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.235s]
+2021-06-03 22:23:00,945 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.278s]
+2021-06-03 22:23:01,251 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 22:23:01,263 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 22:23:01,263 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 22:23:01,268 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:23:01] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 22:23:06,322 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:23:06] "[31m[1mGET /sync HTTP/1.1[0m" 406 -
+2021-06-03 22:27:26,058 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:27:27,459 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:27:27,466 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:27:27,488 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 22:27:31,659 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 22:27:31,659 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 22:27:32,923 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:27:32,923 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 22:27:33,950 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:27:34,106 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:27:34] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 22:27:34,203 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 22:27:34,203 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 22:27:34,657 : ERROR : dropbox_connect : get_dropbox_files : AuthError('c9c19e118e974caf993d8ade05dd18ac', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 22:27:34,658 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 22:27:34,658 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 22:27:35,887 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:1.229s]
+2021-06-03 22:27:35,887 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 22:27:36,194 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.307s]
+2021-06-03 22:27:36,194 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 22:27:36,194 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 22:27:36,434 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.236s]
+2021-06-03 22:27:36,707 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.273s]
+2021-06-03 22:27:36,962 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.254s]
+2021-06-03 22:27:37,219 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.256s]
+2021-06-03 22:27:37,455 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.236s]
+2021-06-03 22:27:37,730 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.274s]
+2021-06-03 22:27:38,037 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 22:27:38,346 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.309s]
+2021-06-03 22:27:38,651 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.304s]
+2021-06-03 22:27:38,652 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 22:27:38,652 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 22:27:38,654 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:27:38] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 22:28:26,480 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:28:26] "[31m[1mGET /sync HTTP/1.1[0m" 406 -
+2021-06-03 22:29:40,228 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 22:29:40] "[31m[1mGET /sync HTTP/1.1[0m" 406 -
+2021-06-03 22:38:27,647 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:38:27,648 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 22:38:30,186 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 22:38:31,652 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 22:38:31,659 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 22:38:31,673 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 23:00:40,985 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 23:00:40,985 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\synchronizing_data.py', reloading
+2021-06-03 23:00:43,340 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 23:24:42,872 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:24:42,873 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:24:42,873 : INFO : base : start : Scheduler started
+2021-06-03 23:24:42,909 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 23:24:44,377 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:24:44,377 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:24:44,377 : INFO : base : start : Scheduler started
+2021-06-03 23:24:44,384 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 23:24:44,391 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 23:24:44,405 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 23:25:10,553 : INFO : search_api : search : Request received
+2021-06-03 23:25:10,553 : INFO : search_api : search : Search query received for Abhilash Raj
+2021-06-03 23:25:10,553 : INFO : search_api : search : Searching the DB
+2021-06-03 23:25:10,554 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 23:25:10,554 : INFO : db_connect : search_db : Searching the DB for Abhilash Raj
+2021-06-03 23:25:12,155 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:1.600s]
+2021-06-03 23:25:13,259 : INFO : db_connect : search_db : No matches for Abhilash Raj
+2021-06-03 23:25:13,259 : WARNING : search_api : search : No files found in db containing Abhilash Raj
+2021-06-03 23:25:13,259 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:25:13,260 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:25:13] "[33mGET /search?q=%22Abhilash%20Raj%22 HTTP/1.1[0m" 404 -
+2021-06-03 23:26:12,412 : INFO : search_api : sync : Synchronisation request received at 2021-06-03T23:26:12.412717
+2021-06-03 23:26:12,412 : INFO : search_api : sync : Processing Syncronisation request
+2021-06-03 23:26:12,412 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:26:12,412 : INFO : synchronizing_data : sync_data : Synchronization Started
+2021-06-03 23:26:12,412 : INFO : synchronizing_data : sync_resolve : Updating the syncronization resolver
+2021-06-03 23:26:12,413 : INFO : synchronizing_data : sync_data : Fetching data from dropbox
+2021-06-03 23:26:12,413 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 23:26:12,414 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 23:26:12,415 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\__pycache__\\netrc.cpython-37.pyc', reloading
+2021-06-03 23:26:12,415 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\__pycache__\\shlex.cpython-37.pyc', reloading
+2021-06-03 23:26:13,096 : ERROR : dropbox_connect : get_dropbox_files : name 'df_bx' is not defined
+2021-06-03 23:26:13,096 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 23:26:13,096 : INFO : synchronizing_data : sync_data : Synchronizing the DB
+2021-06-03 23:26:13,096 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 23:26:13,097 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\__pycache__\\_strptime.cpython-37.pyc', reloading
+2021-06-03 23:26:13,429 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:0.332s]
+2021-06-03 23:26:15,181 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 23:26:16,703 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:26:16,704 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:26:16,704 : INFO : base : start : Scheduler started
+2021-06-03 23:26:16,711 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 23:26:16,718 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 23:26:16,732 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 23:27:37,624 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\dropbox_connect.py', reloading
+2021-06-03 23:27:37,624 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\dropbox_connect.py', reloading
+2021-06-03 23:27:38,770 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 23:27:40,563 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:27:40,565 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:27:40,565 : INFO : base : start : Scheduler started
+2021-06-03 23:27:40,572 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 23:27:40,579 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 23:27:40,593 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 23:27:44,907 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:27:44,908 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:27:44,908 : INFO : base : start : Scheduler started
+2021-06-03 23:27:44,934 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 23:27:46,409 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:27:46,410 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:27:46,410 : INFO : base : start : Scheduler started
+2021-06-03 23:27:46,416 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 23:27:46,423 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 23:27:46,437 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 23:28:12,222 : INFO : search_api : sync : Synchronisation request received at 2021-06-03T23:28:12.222689
+2021-06-03 23:28:12,223 : INFO : search_api : sync : Processing Syncronisation request
+2021-06-03 23:28:12,223 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:28:12,223 : INFO : synchronizing_data : sync_data : Synchronization Started
+2021-06-03 23:28:12,223 : INFO : synchronizing_data : sync_resolve : Updating the syncronization resolver
+2021-06-03 23:28:12,225 : INFO : synchronizing_data : sync_data : Fetching data from dropbox
+2021-06-03 23:28:12,225 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 23:28:12,227 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 23:28:13,038 : WARNING : dropbox_connect : get_dropbox_files : No Files in dropbox
+2021-06-03 23:28:13,038 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:28:13,038 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:28:14,157 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:28:14,486 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:28:14,486 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:28:14,876 : ERROR : dropbox_connect : get_dropbox_files : AuthError('1b0851239ca44e5c90ee1976dd847604', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 23:28:14,877 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 23:28:14,877 : INFO : synchronizing_data : sync_data : Synchronizing the DB
+2021-06-03 23:28:14,877 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 23:28:16,144 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:1.267s]
+2021-06-03 23:28:16,145 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 23:28:16,481 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.335s]
+2021-06-03 23:28:16,482 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 23:28:16,482 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 23:28:16,490 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\pandas\\core\\__pycache__\\apply.cpython-37.pyc', reloading
+2021-06-03 23:28:16,819 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.331s]
+2021-06-03 23:28:17,128 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 23:28:17,364 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.235s]
+2021-06-03 23:28:17,660 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 23:28:19,191 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:28:19,191 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:28:19,191 : INFO : base : start : Scheduler started
+2021-06-03 23:28:19,198 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 23:28:19,205 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 23:28:19,219 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 23:36:05,780 : INFO : search_api : sync : Synchronisation request received at 2021-06-03T23:36:05.780806
+2021-06-03 23:36:05,780 : INFO : search_api : sync : Processing Syncronisation request
+2021-06-03 23:36:05,780 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:36:05,781 : WARNING : synchronizing_data : sync_data : Synchronization already in progress
+2021-06-03 23:36:05,781 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:36:05,781 : INFO : search_api : sync : Syncronisation request processed
+2021-06-03 23:36:05,783 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:36:05] "[31m[1mGET /sync HTTP/1.1[0m" 409 -
+2021-06-03 23:36:25,696 : INFO : search_api : sync : Synchronisation request received at 2021-06-03T23:36:25.696514
+2021-06-03 23:36:25,696 : INFO : search_api : sync : Processing Syncronisation request
+2021-06-03 23:36:25,697 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:36:25,698 : INFO : synchronizing_data : sync_data : Synchronization Started
+2021-06-03 23:36:25,698 : INFO : synchronizing_data : sync_resolve : Updating the syncronization resolver
+2021-06-03 23:36:25,701 : INFO : synchronizing_data : sync_data : Fetching data from dropbox
+2021-06-03 23:36:25,701 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 23:36:25,703 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 23:36:26,705 : WARNING : dropbox_connect : get_dropbox_files : No Files in dropbox
+2021-06-03 23:36:26,705 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:36:26,705 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:36:27,724 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:36:28,015 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:36:28,015 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:36:28,443 : ERROR : dropbox_connect : get_dropbox_files : AuthError('2cec9577c82042d9a907a09d3bab9e7b', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 23:36:28,443 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 23:36:28,443 : INFO : synchronizing_data : sync_data : Synchronizing the DB
+2021-06-03 23:36:28,444 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 23:36:29,876 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:1.432s]
+2021-06-03 23:36:29,876 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 23:36:30,184 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.307s]
+2021-06-03 23:36:30,184 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 23:36:30,184 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 23:36:30,491 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.298s]
+2021-06-03 23:36:30,743 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.251s]
+2021-06-03 23:36:30,978 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.235s]
+2021-06-03 23:36:31,211 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.234s]
+2021-06-03 23:36:31,513 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.301s]
+2021-06-03 23:36:31,749 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.234s]
+2021-06-03 23:36:32,025 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.276s]
+2021-06-03 23:36:32,333 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 23:36:32,640 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 23:36:32,642 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 23:36:32,642 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 23:36:32,642 : INFO : synchronizing_data : sync_resolve : Updating the syncronization resolver
+2021-06-03 23:36:32,643 : INFO : synchronizing_data : sync_data : Synchronization completed
+2021-06-03 23:36:32,643 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:36:32,644 : INFO : search_api : sync : Syncronisation request processed
+2021-06-03 23:36:32,644 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:36:32] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 23:36:39,361 : INFO : search_api : search : Request received
+2021-06-03 23:36:39,361 : INFO : search_api : search : Search query received for Abhilash Raj
+2021-06-03 23:36:39,361 : INFO : search_api : search : Searching the DB
+2021-06-03 23:36:39,362 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 23:36:39,362 : INFO : db_connect : search_db : Searching the DB for Abhilash Raj
+2021-06-03 23:36:40,218 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:0.856s]
+2021-06-03 23:36:40,218 : INFO : db_connect : search_db : No matches for Abhilash Raj
+2021-06-03 23:36:40,218 : WARNING : search_api : search : No files found in db containing Abhilash Raj
+2021-06-03 23:36:40,218 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:36:40,219 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:36:40] "[33mGET /search?q=%22Abhilash%20Raj%22 HTTP/1.1[0m" 404 -
+2021-06-03 23:37:44,924 : INFO : base : run_job : Running job "sync_data (trigger: interval[0:10:00], next run at: 2021-06-03 23:37:44 IST)" (scheduled at 2021-06-03 23:37:44.907734+05:30)
+2021-06-03 23:37:44,924 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:37:44,925 : INFO : synchronizing_data : sync_data : Synchronization Started
+2021-06-03 23:37:44,925 : INFO : synchronizing_data : sync_resolve : Updating the syncronization resolver
+2021-06-03 23:37:44,925 : INFO : synchronizing_data : sync_data : Fetching data from dropbox
+2021-06-03 23:37:44,925 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 23:37:44,926 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 23:37:45,752 : WARNING : dropbox_connect : get_dropbox_files : No Files in dropbox
+2021-06-03 23:37:45,752 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:37:45,752 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:37:46,780 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:37:47,857 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:37:47,857 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:37:48,211 : ERROR : dropbox_connect : get_dropbox_files : AuthError('014e640ccb0c40da83e912ea392e6cb2', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 23:37:48,211 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 23:37:48,211 : INFO : synchronizing_data : sync_data : Synchronizing the DB
+2021-06-03 23:37:48,211 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 23:37:49,647 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:1.437s]
+2021-06-03 23:37:49,648 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 23:37:49,964 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.315s]
+2021-06-03 23:37:49,965 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 23:37:49,966 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 23:37:50,262 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.281s]
+2021-06-03 23:37:50,570 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 23:37:50,889 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.317s]
+2021-06-03 23:37:51,183 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.293s]
+2021-06-03 23:37:51,487 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.303s]
+2021-06-03 23:37:51,795 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 23:37:52,103 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 23:37:52,410 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 23:37:53,024 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.615s]
+2021-06-03 23:37:53,026 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 23:37:53,026 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 23:37:53,026 : INFO : synchronizing_data : sync_resolve : Updating the syncronization resolver
+2021-06-03 23:37:53,028 : INFO : synchronizing_data : sync_data : Synchronization completed
+2021-06-03 23:37:53,028 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:37:53,028 : INFO : base : run_job : Job "sync_data (trigger: interval[0:10:00], next run at: 2021-06-03 23:47:44 IST)" executed successfully
+2021-06-03 23:38:19,195 : INFO : base : run_job : Running job "sync_data (trigger: interval[0:10:00], next run at: 2021-06-03 23:38:19 IST)" (scheduled at 2021-06-03 23:38:19.190341+05:30)
+2021-06-03 23:38:19,197 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:38:19,197 : INFO : synchronizing_data : sync_data : Synchronization Started
+2021-06-03 23:38:19,198 : INFO : synchronizing_data : sync_resolve : Updating the syncronization resolver
+2021-06-03 23:38:19,200 : INFO : synchronizing_data : sync_data : Fetching data from dropbox
+2021-06-03 23:38:19,201 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 23:38:19,204 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 23:38:20,168 : WARNING : dropbox_connect : get_dropbox_files : No Files in dropbox
+2021-06-03 23:38:20,169 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:38:20,170 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:38:22,005 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:38:22,519 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:38:22,519 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:38:22,927 : ERROR : dropbox_connect : get_dropbox_files : AuthError('546b3a85506a44a9b068250316b5153d', AuthError('missing_scope', TokenScopeError(required_scope='sharing.write')))
+2021-06-03 23:38:22,927 : ERROR : dropbox_connect : get_dropbox_files : Fetching data from dropbox failed
+2021-06-03 23:38:22,927 : INFO : synchronizing_data : sync_data : Synchronizing the DB
+2021-06-03 23:38:22,927 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 23:38:23,163 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:0.235s]
+2021-06-03 23:38:23,164 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 23:38:24,462 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:1.298s]
+2021-06-03 23:38:24,463 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 23:38:24,463 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 23:38:24,769 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.303s]
+2021-06-03 23:38:25,078 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.307s]
+2021-06-03 23:38:25,382 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.304s]
+2021-06-03 23:38:25,691 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 23:38:26,000 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.308s]
+2021-06-03 23:38:26,306 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 23:38:26,817 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.327s]
+2021-06-03 23:38:27,052 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.236s]
+2021-06-03 23:38:27,329 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.277s]
+2021-06-03 23:38:27,332 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 23:38:27,332 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 23:38:27,332 : INFO : synchronizing_data : sync_resolve : Updating the syncronization resolver
+2021-06-03 23:38:27,334 : INFO : synchronizing_data : sync_data : Synchronization completed
+2021-06-03 23:38:27,335 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:38:27,335 : INFO : base : run_job : Job "sync_data (trigger: interval[0:10:00], next run at: 2021-06-03 23:48:19 IST)" executed successfully
+2021-06-03 23:38:31,970 : INFO : search_api : search : Request received
+2021-06-03 23:38:31,971 : INFO : search_api : search : Search query received for Abhilash Raj
+2021-06-03 23:38:31,971 : INFO : search_api : search : Searching the DB
+2021-06-03 23:38:31,973 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 23:38:31,973 : INFO : db_connect : search_db : Searching the DB for Abhilash Raj
+2021-06-03 23:38:32,656 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:0.684s]
+2021-06-03 23:38:32,656 : INFO : db_connect : search_db : No matches for Abhilash Raj
+2021-06-03 23:38:32,656 : WARNING : search_api : search : No files found in db containing Abhilash Raj
+2021-06-03 23:38:32,657 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:38:32,658 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:38:32] "[33mGET /search?q=%22Abhilash%20Raj%22 HTTP/1.1[0m" 404 -
+2021-06-03 23:38:34,819 : INFO : search_api : search : Request received
+2021-06-03 23:38:34,819 : INFO : search_api : search : Search query received for Abhilash Raj
+2021-06-03 23:38:34,819 : INFO : search_api : search : Searching the DB
+2021-06-03 23:38:34,821 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 23:38:34,821 : INFO : db_connect : search_db : Searching the DB for Abhilash Raj
+2021-06-03 23:38:35,058 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:0.236s]
+2021-06-03 23:38:35,058 : INFO : db_connect : search_db : No matches for Abhilash Raj
+2021-06-03 23:38:35,058 : WARNING : search_api : search : No files found in db containing Abhilash Raj
+2021-06-03 23:38:35,059 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:38:35,060 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:38:35] "[33mGET /search?q=%22Abhilash%20Raj%22 HTTP/1.1[0m" 404 -
+2021-06-03 23:38:43,910 : INFO : search_api : search : Request received
+2021-06-03 23:38:43,911 : INFO : search_api : search : Search query received for Abhilash
+2021-06-03 23:38:43,911 : INFO : search_api : search : Searching the DB
+2021-06-03 23:38:43,913 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 23:38:43,913 : INFO : db_connect : search_db : Searching the DB for Abhilash
+2021-06-03 23:38:44,225 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:0.311s]
+2021-06-03 23:38:44,226 : INFO : db_connect : search_db : No matches for Abhilash
+2021-06-03 23:38:44,226 : WARNING : search_api : search : No files found in db containing Abhilash
+2021-06-03 23:38:44,226 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:38:44,227 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:38:44] "[33mGET /search?q=%22Abhilash%22 HTTP/1.1[0m" 404 -
+2021-06-03 23:38:52,426 : INFO : search_api : search : Request received
+2021-06-03 23:38:52,427 : INFO : search_api : search : Search query received for the
+2021-06-03 23:38:52,427 : INFO : search_api : search : Searching the DB
+2021-06-03 23:38:52,429 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 23:38:52,430 : INFO : db_connect : search_db : Searching the DB for the
+2021-06-03 23:38:52,667 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:0.237s]
+2021-06-03 23:38:52,667 : INFO : db_connect : search_db : No matches for the
+2021-06-03 23:38:52,667 : WARNING : search_api : search : No files found in db containing the
+2021-06-03 23:38:52,668 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:38:52,669 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:38:52] "[33mGET /search?q=%22the%22 HTTP/1.1[0m" 404 -
+2021-06-03 23:39:27,851 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\db_connect.py', reloading
+2021-06-03 23:39:29,228 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 23:39:31,833 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:39:31,833 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:39:31,833 : INFO : base : start : Scheduler started
+2021-06-03 23:39:31,843 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 23:39:31,852 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 23:39:31,877 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 23:39:58,097 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\db_connect.py', reloading
+2021-06-03 23:39:58,098 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\db_connect.py', reloading
+2021-06-03 23:39:59,401 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 23:40:01,963 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:40:01,964 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:40:01,964 : INFO : base : start : Scheduler started
+2021-06-03 23:40:01,975 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 23:40:01,984 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 23:40:02,003 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 23:40:13,744 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:40:13,744 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:40:13,745 : INFO : base : start : Scheduler started
+2021-06-03 23:40:13,792 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 23:40:16,304 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:40:16,305 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:40:16,305 : INFO : base : start : Scheduler started
+2021-06-03 23:40:16,315 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 23:40:16,327 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 23:40:16,357 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 23:40:23,571 : INFO : search_api : search : Request received
+2021-06-03 23:40:23,571 : INFO : search_api : search : Search query received for the
+2021-06-03 23:40:23,572 : INFO : search_api : search : Searching the DB
+2021-06-03 23:40:23,574 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 23:40:23,574 : INFO : db_connect : search_db : Searching the DB for the
+2021-06-03 23:40:25,089 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:1.515s]
+2021-06-03 23:40:25,090 : INFO : db_connect : search_db : No matches for the
+2021-06-03 23:40:25,090 : WARNING : search_api : search : No files found in db containing the
+2021-06-03 23:40:25,090 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:40:25,092 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:40:25] "[33mGET /search?q=%22the%22 HTTP/1.1[0m" 404 -
+2021-06-03 23:45:46,016 : INFO : search_api : search : Request received
+2021-06-03 23:45:46,016 : INFO : search_api : search : Search query received for the
+2021-06-03 23:45:46,016 : INFO : search_api : search : Searching the DB
+2021-06-03 23:45:46,018 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 23:45:46,018 : INFO : db_connect : search_db : Searching the DB for the
+2021-06-03 23:45:47,446 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:1.427s]
+2021-06-03 23:45:47,446 : INFO : db_connect : search_db : No matches for the
+2021-06-03 23:45:47,446 : WARNING : search_api : search : No files found in db containing the
+2021-06-03 23:45:47,446 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:45:47,447 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:45:47] "[33mGET /search?q=%22the%22 HTTP/1.1[0m" 404 -
+2021-06-03 23:45:58,091 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:45:58,092 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:45:58,092 : INFO : base : start : Scheduler started
+2021-06-03 23:45:58,141 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 23:46:00,574 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:46:00,575 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:46:00,575 : INFO : base : start : Scheduler started
+2021-06-03 23:46:00,586 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 23:46:00,597 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 23:46:00,622 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 23:46:12,651 : INFO : search_api : search : Request received
+2021-06-03 23:46:12,652 : INFO : search_api : search : Search query received for the
+2021-06-03 23:46:12,652 : INFO : search_api : search : Searching the DB
+2021-06-03 23:46:12,654 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 23:46:12,654 : INFO : db_connect : search_db : Searching the DB for the
+2021-06-03 23:46:13,892 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:1.237s]
+2021-06-03 23:46:13,892 : INFO : db_connect : search_db : No matches for the
+2021-06-03 23:46:13,893 : WARNING : search_api : search : No files found in db containing the
+2021-06-03 23:46:13,893 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:46:13,894 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:46:13] "[33mGET /search?q=%22the%22 HTTP/1.1[0m" 404 -
+2021-06-03 23:47:08,987 : INFO : search_api : sync : Synchronisation request received at 2021-06-03T23:47:08.987268
+2021-06-03 23:47:08,987 : INFO : search_api : sync : Processing Syncronisation request
+2021-06-03 23:47:08,988 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:47:08,989 : INFO : synchronizing_data : sync_data : Synchronization Started
+2021-06-03 23:47:08,989 : INFO : synchronizing_data : sync_resolve : Updating the syncronization resolver
+2021-06-03 23:47:08,991 : INFO : synchronizing_data : sync_data : Fetching data from dropbox
+2021-06-03 23:47:08,992 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 23:47:08,994 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 23:47:10,000 : WARNING : dropbox_connect : get_dropbox_files : No Files in dropbox
+2021-06-03 23:47:10,001 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:47:10,002 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:47:11,107 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:47:11,550 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:47:11,551 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:47:12,450 : INFO : dropbox_connect : __get_file_data : Fetching data for /Abhilash Resume.pdf file
+2021-06-03 23:47:12,451 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:47:13,258 : INFO : dropbox_connect : __get_file_data : Extracting text from /Abhilash Resume.pdf file
+2021-06-03 23:47:13,549 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Abhilash Resume.pdf file
+2021-06-03 23:47:13,549 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:47:14,284 : INFO : dropbox_connect : __get_file_data : Fetching data for /Anupma_Resume.pdf file
+2021-06-03 23:47:14,285 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:47:14,915 : INFO : dropbox_connect : __get_file_data : Extracting text from /Anupma_Resume.pdf file
+2021-06-03 23:47:15,193 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Anupma_Resume.pdf file
+2021-06-03 23:47:15,194 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:47:16,037 : INFO : dropbox_connect : __get_file_data : Fetching data for /Anurag Sengupta - Resume.pdf file
+2021-06-03 23:47:16,037 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:47:16,637 : INFO : dropbox_connect : __get_file_data : Extracting text from /Anurag Sengupta - Resume.pdf file
+2021-06-03 23:47:16,685 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Anurag Sengupta - Resume.pdf file
+2021-06-03 23:47:16,686 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:47:17,559 : INFO : dropbox_connect : __get_file_data : Fetching data for /Reimbursment form.pdf file
+2021-06-03 23:47:17,559 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:47:18,198 : INFO : dropbox_connect : __get_file_data : Extracting text from /Reimbursment form.pdf file
+2021-06-03 23:47:18,242 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Reimbursment form.pdf file
+2021-06-03 23:47:18,242 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:47:18,977 : INFO : dropbox_connect : __get_file_data : Fetching data for /manju_devi_INB_loging_detail.pdf file
+2021-06-03 23:47:18,978 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:47:19,570 : INFO : dropbox_connect : __get_file_data : Extracting text from /manju_devi_INB_loging_detail.pdf file
+2021-06-03 23:47:19,582 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /manju_devi_INB_loging_detail.pdf file
+2021-06-03 23:47:19,583 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:47:20,318 : INFO : dropbox_connect : __get_file_data : Fetching data for /manju_devi_beneficiary_provided_by_CMD.pdf file
+2021-06-03 23:47:20,319 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:47:21,041 : INFO : dropbox_connect : __get_file_data : Extracting text from /manju_devi_beneficiary_provided_by_CMD.pdf file
+2021-06-03 23:47:21,293 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /manju_devi_beneficiary_provided_by_CMD.pdf file
+2021-06-03 23:47:21,294 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:47:22,139 : INFO : dropbox_connect : __get_file_data : Fetching data for /Chef's ingredie-WPS Office.docx file
+2021-06-03 23:47:22,139 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:47:22,883 : INFO : dropbox_connect : __get_file_data : Extracting text from /Chef's ingredie-WPS Office.docx file
+2021-06-03 23:47:22,925 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Chef's ingredie-WPS Office.docx file
+2021-06-03 23:47:22,925 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:47:23,702 : INFO : dropbox_connect : __get_file_data : Fetching data for /Resume.docx file
+2021-06-03 23:47:23,703 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:47:24,524 : INFO : dropbox_connect : __get_file_data : Extracting text from /Resume.docx file
+2021-06-03 23:47:25,169 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Resume.docx file
+2021-06-03 23:47:25,169 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:47:26,408 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox successful
+2021-06-03 23:47:26,409 : INFO : synchronizing_data : sync_data : Synchronizing the DB
+2021-06-03 23:47:26,409 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 23:47:26,670 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/*/_alias [status:200 request:0.261s]
+2021-06-03 23:47:26,671 : INFO : db_connect : sync_db : Deleting the previous data from DB
+2021-06-03 23:47:26,979 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_delete_by_query [status:200 request:0.308s]
+2021-06-03 23:47:26,980 : INFO : db_connect : sync_db : Deletion completed
+2021-06-03 23:47:26,980 : INFO : db_connect : sync_db : Updating the DB with the dropbox files data
+2021-06-03 23:47:27,298 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 23:47:27,597 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.299s]
+2021-06-03 23:47:27,899 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.301s]
+2021-06-03 23:47:28,206 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 23:47:28,514 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 23:47:28,819 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 23:47:29,127 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 23:47:29,434 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.305s]
+2021-06-03 23:47:29,741 : INFO : base : log_request_success : POST https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_doc [status:201 request:0.306s]
+2021-06-03 23:47:29,745 : INFO : db_connect : sync_db : Update of DB completed
+2021-06-03 23:47:29,745 : INFO : db_connect : sync_db : Synchronization of dropbox with DB successful
+2021-06-03 23:47:29,745 : INFO : synchronizing_data : sync_resolve : Updating the syncronization resolver
+2021-06-03 23:47:29,748 : INFO : synchronizing_data : sync_data : Synchronization completed
+2021-06-03 23:47:29,749 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:47:29,749 : INFO : search_api : sync : Syncronisation request processed
+2021-06-03 23:47:29,750 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:47:29] "[37mGET /sync HTTP/1.1[0m" 200 -
+2021-06-03 23:47:37,319 : INFO : search_api : search : Request received
+2021-06-03 23:47:37,319 : INFO : search_api : search : Search query received for the
+2021-06-03 23:47:37,320 : INFO : search_api : search : Searching the DB
+2021-06-03 23:47:37,321 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 23:47:37,322 : INFO : db_connect : search_db : Searching the DB for the
+2021-06-03 23:47:38,241 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:0.920s]
+2021-06-03 23:47:38,242 : INFO : db_connect : search_db : Matches found in the DB
+2021-06-03 23:47:38,246 : INFO : search_api : search : Files found containing the
+2021-06-03 23:47:38,247 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:47:38,251 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:47:38] "[37mGET /search?q=%22the%22 HTTP/1.1[0m" 200 -
+2021-06-03 23:48:16,101 : INFO : search_api : search : Request received
+2021-06-03 23:48:16,102 : INFO : search_api : search : Search query received for Abhilash Raj
+2021-06-03 23:48:16,102 : INFO : search_api : search : Searching the DB
+2021-06-03 23:48:16,104 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 23:48:16,105 : INFO : db_connect : search_db : Searching the DB for Abhilash Raj
+2021-06-03 23:48:16,344 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:0.239s]
+2021-06-03 23:48:16,345 : INFO : db_connect : search_db : Matches found in the DB
+2021-06-03 23:48:16,350 : INFO : search_api : search : Files found containing Abhilash Raj
+2021-06-03 23:48:16,350 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:48:16,353 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:48:16] "[37mGET /search?q=%22Abhilash%20Raj%22 HTTP/1.1[0m" 200 -
+2021-06-03 23:52:14,259 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\dropbox_connect.py', reloading
+2021-06-03 23:52:14,259 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\dropbox_connect.py', reloading
+2021-06-03 23:52:16,764 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 23:52:19,700 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:52:19,702 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:52:19,702 : INFO : base : start : Scheduler started
+2021-06-03 23:52:19,714 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 23:52:19,722 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 23:52:19,744 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 23:52:31,472 : INFO : search_api : sync : Synchronisation request received at 2021-06-03T23:52:31.471970
+2021-06-03 23:52:31,472 : INFO : search_api : sync : Processing Syncronisation request
+2021-06-03 23:52:31,472 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:52:31,473 : INFO : synchronizing_data : sync_data : Synchronization Started
+2021-06-03 23:52:31,474 : INFO : synchronizing_data : sync_resolve : Updating the syncronization resolver
+2021-06-03 23:52:31,477 : INFO : synchronizing_data : sync_data : Fetching data from dropbox
+2021-06-03 23:52:31,477 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox
+2021-06-03 23:52:31,480 : INFO : dropbox : request_json_string_with_retry : Request to files/list_folder
+2021-06-03 23:52:32,469 : WARNING : dropbox_connect : get_dropbox_files : No Files in dropbox
+2021-06-03 23:52:32,470 : INFO : dropbox_connect : __get_file_data : Fetching data for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:52:32,471 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:52:33,369 : INFO : dropbox_connect : __get_file_data : Extracting text from /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:52:33,633 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Search_API Interview Assignment - Backend SWE (2) (1).pdf file
+2021-06-03 23:52:33,633 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:52:34,794 : INFO : dropbox_connect : __get_file_data : Fetching data for /Abhilash Resume.pdf file
+2021-06-03 23:52:34,794 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:52:35,409 : INFO : dropbox_connect : __get_file_data : Extracting text from /Abhilash Resume.pdf file
+2021-06-03 23:52:36,026 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Abhilash Resume.pdf file
+2021-06-03 23:52:36,026 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:52:37,355 : INFO : dropbox_connect : __get_file_data : Fetching data for /Anupma_Resume.pdf file
+2021-06-03 23:52:37,356 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:52:38,072 : INFO : dropbox_connect : __get_file_data : Extracting text from /Anupma_Resume.pdf file
+2021-06-03 23:52:38,264 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Anupma_Resume.pdf file
+2021-06-03 23:52:38,264 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:52:38,993 : INFO : dropbox_connect : __get_file_data : Fetching data for /Anurag Sengupta - Resume.pdf file
+2021-06-03 23:52:38,993 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:52:39,710 : INFO : dropbox_connect : __get_file_data : Extracting text from /Anurag Sengupta - Resume.pdf file
+2021-06-03 23:52:39,996 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Anurag Sengupta - Resume.pdf file
+2021-06-03 23:52:39,997 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:52:41,348 : INFO : dropbox_connect : __get_file_data : Fetching data for /Reimbursment form.pdf file
+2021-06-03 23:52:41,349 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:52:41,963 : INFO : dropbox_connect : __get_file_data : Extracting text from /Reimbursment form.pdf file
+2021-06-03 23:52:41,982 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Reimbursment form.pdf file
+2021-06-03 23:52:41,982 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:52:42,800 : INFO : dropbox_connect : __get_file_data : Fetching data for /manju_devi_INB_loging_detail.pdf file
+2021-06-03 23:52:42,801 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:52:43,352 : INFO : dropbox_connect : __get_file_data : Extracting text from /manju_devi_INB_loging_detail.pdf file
+2021-06-03 23:52:43,364 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /manju_devi_INB_loging_detail.pdf file
+2021-06-03 23:52:43,365 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:52:44,214 : INFO : dropbox_connect : __get_file_data : Fetching data for /manju_devi_beneficiary_provided_by_CMD.pdf file
+2021-06-03 23:52:44,215 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:52:44,828 : INFO : dropbox_connect : __get_file_data : Extracting text from /manju_devi_beneficiary_provided_by_CMD.pdf file
+2021-06-03 23:52:44,975 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /manju_devi_beneficiary_provided_by_CMD.pdf file
+2021-06-03 23:52:44,975 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:52:45,848 : INFO : dropbox_connect : __get_file_data : Fetching data for /Chef's ingredie-WPS Office.docx file
+2021-06-03 23:52:45,849 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:52:47,289 : INFO : dropbox_connect : __get_file_data : Extracting text from /Chef's ingredie-WPS Office.docx file
+2021-06-03 23:52:47,305 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Chef's ingredie-WPS Office.docx file
+2021-06-03 23:52:47,306 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:52:48,044 : INFO : dropbox_connect : __get_file_data : Fetching data for /Resume.docx file
+2021-06-03 23:52:48,045 : INFO : dropbox : request_json_string_with_retry : Request to files/download
+2021-06-03 23:52:48,768 : INFO : dropbox_connect : __get_file_data : Extracting text from /Resume.docx file
+2021-06-03 23:52:49,419 : INFO : dropbox_connect : __get_file_data : Creating shareable link for /Resume.docx file
+2021-06-03 23:52:49,420 : INFO : dropbox : request_json_string_with_retry : Request to sharing/create_shared_link
+2021-06-03 23:52:50,174 : INFO : dropbox_connect : get_dropbox_files : Fetching data from dropbox successful
+2021-06-03 23:52:50,191 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\__init__.cpython-37.pyc', reloading
+2021-06-03 23:52:50,196 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\workbook.cpython-37.pyc', reloading
+2021-06-03 23:52:50,200 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\compatibility.cpython-37.pyc', reloading
+2021-06-03 23:52:50,210 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\__pycache__\\fractions.cpython-37.pyc', reloading
+2021-06-03 23:52:50,216 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\xmlwriter.cpython-37.pyc', reloading
+2021-06-03 23:52:50,223 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\worksheet.cpython-37.pyc', reloading
+2021-06-03 23:52:50,227 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\format.cpython-37.pyc', reloading
+2021-06-03 23:52:50,232 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\drawing.cpython-37.pyc', reloading
+2021-06-03 23:52:50,236 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\shape.cpython-37.pyc', reloading
+2021-06-03 23:52:50,241 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\utility.cpython-37.pyc', reloading
+2021-06-03 23:52:50,248 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\exceptions.cpython-37.pyc', reloading
+2021-06-03 23:52:50,251 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\chartsheet.cpython-37.pyc', reloading
+2021-06-03 23:52:50,256 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\sharedstrings.cpython-37.pyc', reloading
+2021-06-03 23:52:50,259 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\packager.cpython-37.pyc', reloading
+2021-06-03 23:52:50,264 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\app.cpython-37.pyc', reloading
+2021-06-03 23:52:50,267 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\contenttypes.cpython-37.pyc', reloading
+2021-06-03 23:52:50,270 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\core.cpython-37.pyc', reloading
+2021-06-03 23:52:50,275 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\custom.cpython-37.pyc', reloading
+2021-06-03 23:52:50,278 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\relationships.cpython-37.pyc', reloading
+2021-06-03 23:52:50,281 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\styles.cpython-37.pyc', reloading
+2021-06-03 23:52:50,285 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\theme.cpython-37.pyc', reloading
+2021-06-03 23:52:50,289 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\vml.cpython-37.pyc', reloading
+2021-06-03 23:52:50,293 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\table.cpython-37.pyc', reloading
+2021-06-03 23:52:50,297 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\comments.cpython-37.pyc', reloading
+2021-06-03 23:52:50,299 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\chart_area.cpython-37.pyc', reloading
+2021-06-03 23:52:50,301 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\chart.cpython-37.pyc', reloading
+2021-06-03 23:52:50,302 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\chart_bar.cpython-37.pyc', reloading
+2021-06-03 23:52:50,305 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\chart_column.cpython-37.pyc', reloading
+2021-06-03 23:52:50,307 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\chart_doughnut.cpython-37.pyc', reloading
+2021-06-03 23:52:50,309 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\chart_pie.cpython-37.pyc', reloading
+2021-06-03 23:52:50,310 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\chart_line.cpython-37.pyc', reloading
+2021-06-03 23:52:50,313 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\chart_radar.cpython-37.pyc', reloading
+2021-06-03 23:52:50,315 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\chart_scatter.cpython-37.pyc', reloading
+2021-06-03 23:52:50,317 : INFO : _internal : _log :  * Detected change in 'C:\\Users\\abhil\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__pycache__\\chart_stock.cpython-37.pyc', reloading
+2021-06-03 23:52:50,392 : INFO : synchronizing_data : sync_data : Synchronizing the DB
+2021-06-03 23:52:50,392 : INFO : db_connect : sync_db : Synchronizing the dropbox files with DB
+2021-06-03 23:52:51,747 : INFO : _internal : _log :  * Restarting with windowsapi reloader
+2021-06-03 23:52:54,653 : INFO : base : add_job : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-06-03 23:52:54,653 : INFO : base : _real_add_job : Added job "sync_data" to job store "default"
+2021-06-03 23:52:54,653 : INFO : base : start : Scheduler started
+2021-06-03 23:52:54,662 : WARNING : _internal : _log :  * Debugger is active!
+2021-06-03 23:52:54,670 : INFO : _internal : _log :  * Debugger PIN: 465-827-571
+2021-06-03 23:52:54,692 : INFO : _internal : _log :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-03 23:53:54,669 : INFO : base : run_job : Running job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:53:54 IST)" (scheduled at 2021-06-03 23:53:54.652727+05:30)
+2021-06-03 23:53:54,670 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:53:54,671 : WARNING : synchronizing_data : sync_data : Synchronization already in progress
+2021-06-03 23:53:54,671 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:53:54,671 : INFO : base : run_job : Job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:54:54 IST)" executed successfully
+2021-06-03 23:54:54,660 : INFO : base : run_job : Running job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:54:54 IST)" (scheduled at 2021-06-03 23:54:54.652727+05:30)
+2021-06-03 23:54:54,660 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:54:54,662 : WARNING : synchronizing_data : sync_data : Synchronization already in progress
+2021-06-03 23:54:54,662 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:54:54,662 : INFO : base : run_job : Job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:55:54 IST)" executed successfully
+2021-06-03 23:54:56,630 : INFO : search_api : search : Request received
+2021-06-03 23:54:56,630 : INFO : search_api : search : Search query received for xxxxxxxxxxx
+2021-06-03 23:54:56,631 : INFO : search_api : search : Searching the DB
+2021-06-03 23:54:56,632 : INFO : db_connect : search_db : Creating query to perform the search
+2021-06-03 23:54:56,633 : INFO : db_connect : search_db : Searching the DB for xxxxxxxxxxx
+2021-06-03 23:54:57,981 : INFO : base : log_request_success : GET https://i-o-optimized-deployment-e3e131.es.eastus2.azure.elastic-cloud.com:9243/dropbox_data/_search [status:200 request:1.348s]
+2021-06-03 23:54:57,982 : INFO : db_connect : search_db : No matches for xxxxxxxxxxx
+2021-06-03 23:54:57,982 : WARNING : search_api : search : No files found in db containing xxxxxxxxxxx
+2021-06-03 23:54:57,982 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:54:57,985 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:54:57] "[33mGET /search?q=%22xxxxxxxxxxx%22 HTTP/1.1[0m" 404 -
+2021-06-03 23:55:18,645 : INFO : search_api : search : Request received
+2021-06-03 23:55:18,645 : INFO : search_api : search : Search query received for 
+2021-06-03 23:55:18,645 : ERROR : search_api : search : No search phrase in query
+2021-06-03 23:55:18,645 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:55:18,646 : INFO : _internal : _log : 127.0.0.1 - - [03/Jun/2021 23:55:18] "[31m[1mGET /search?q= HTTP/1.1[0m" 400 -
+2021-06-03 23:55:54,663 : INFO : base : run_job : Running job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:55:54 IST)" (scheduled at 2021-06-03 23:55:54.652727+05:30)
+2021-06-03 23:55:54,664 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:55:54,665 : WARNING : synchronizing_data : sync_data : Synchronization already in progress
+2021-06-03 23:55:54,665 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:55:54,665 : INFO : base : run_job : Job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:56:54 IST)" executed successfully
+2021-06-03 23:55:58,104 : INFO : base : run_job : Running job "sync_data (trigger: interval[0:10:00], next run at: 2021-06-03 23:55:58 IST)" (scheduled at 2021-06-03 23:55:58.091097+05:30)
+2021-06-03 23:55:58,105 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:55:58,106 : WARNING : synchronizing_data : sync_data : Synchronization already in progress
+2021-06-03 23:55:58,106 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:55:58,107 : INFO : base : run_job : Job "sync_data (trigger: interval[0:10:00], next run at: 2021-06-04 00:05:58 IST)" executed successfully
+2021-06-03 23:56:54,673 : INFO : base : run_job : Running job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:56:54 IST)" (scheduled at 2021-06-03 23:56:54.652727+05:30)
+2021-06-03 23:56:54,673 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:56:54,674 : WARNING : synchronizing_data : sync_data : Synchronization already in progress
+2021-06-03 23:56:54,674 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:56:54,675 : INFO : base : run_job : Job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:57:54 IST)" executed successfully
+2021-06-03 23:57:54,669 : INFO : base : run_job : Running job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:57:54 IST)" (scheduled at 2021-06-03 23:57:54.652727+05:30)
+2021-06-03 23:57:54,669 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:57:54,670 : WARNING : synchronizing_data : sync_data : Synchronization already in progress
+2021-06-03 23:57:54,670 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:57:54,671 : INFO : base : run_job : Job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:58:54 IST)" executed successfully
+2021-06-03 23:58:54,669 : INFO : base : run_job : Running job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:58:54 IST)" (scheduled at 2021-06-03 23:58:54.652727+05:30)
+2021-06-03 23:58:54,669 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:58:54,670 : WARNING : synchronizing_data : sync_data : Synchronization already in progress
+2021-06-03 23:58:54,671 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:58:54,672 : INFO : base : run_job : Job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:59:54 IST)" executed successfully
+2021-06-03 23:59:54,658 : INFO : base : run_job : Running job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-03 23:59:54 IST)" (scheduled at 2021-06-03 23:59:54.652727+05:30)
+2021-06-03 23:59:54,658 : INFO : synchronizing_data : sync_resolve : Loading the current synchronization resolver
+2021-06-03 23:59:54,659 : WARNING : synchronizing_data : sync_data : Synchronization already in progress
+2021-06-03 23:59:54,659 : INFO : synchronizing_data : create_response : Creating response
+2021-06-03 23:59:54,660 : INFO : base : run_job : Job "sync_data (trigger: interval[0:01:00], next run at: 2021-06-04 00:00:54 IST)" executed successfully
+2021-06-04 00:00:39,161 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\search_api.py', reloading
+2021-06-04 00:00:39,162 : INFO : _internal : _log :  * Detected change in 'D:\\BorneoAssignment\\search_api.py', reloading
+2021-06-04 00:00:40,428 : INFO : _internal : _log :  * Restarting with windowsapi reloader
