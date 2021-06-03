@@ -4,23 +4,42 @@
 Module containing Backend API driver code
 """
 
-
+import json
 from flask import Flask # For creating route and handling request
 from flask import request # For accessing request queries
-from dropbox_connect import get_dropbox_files # For dropbox operations
-from db_connect import sync_db, search_db # For elasticsearch operations
-
+from connecters import minutes # minutes for periodic interval of sync
+from db_connect import search_db # For elasticsearch operations
+from datetime import datetime as dt # For Synchronizing time
+from synchronizing_data import sync_data, create_response # For Syncing data
+from apscheduler.schedulers.background import BackgroundScheduler # For Sceduling synchronizer
 
 # Creating Flask object
 app = Flask(__name__)
 
+# Creating Scheduler
+sched = BackgroundScheduler(daemon=True)
+sched.add_job(sync_data,'interval',minutes=minutes)
+sched.start()
+
 def logger():
+    '''Creates logger
+    Return(s):
+        log (logging)   :   logger for genearing logs
+    '''
     from logger import log
     return log
 
-def create_response():
-    '''Creates response template'''
-    return {'Status': False}
+## REST API END-POINTS
+@app.route('/sync')
+def sync():
+    '''API endpoint for synchronizing data'''
+    log = logger()
+    request_time = dt.now()
+    log.info(f'Synchronisation request received at {request_time.isoformat()}')
+    log.info('Processing Syncronisation request')
+    response = sync_data(request_time)
+    log.info('Syncronisation request processed')
+    return response
 
 @app.route('/search')
 def search():
@@ -35,11 +54,7 @@ def search():
         log.error(f'No query found in request')
 
         # Creating bad request response
-        response = create_response()
-        response['Message'] = 'No query in request'
-
-        # Returning bad request response
-        return response, 400
+        return create_response(False, 'No query in request', 400)
 
     # Extracting the search phrase from the query
     search_phrase = request.args.get('q').replace('"', '')
@@ -50,11 +65,7 @@ def search():
         log.error(f'No search phrase in query')
 
         # Creating bad request response
-        response = create_response()
-        response['Message'] = 'No value in query'
-
-        # Returning bad request response
-        return response, 400
+        return create_response(False,'No value in query', 400)
 
     log.info('Searching the DB')
     # Calling the search function from db connect
@@ -65,9 +76,9 @@ def search():
         log.warning(f'No files found in db containing {search_phrase}')
 
         # Creating not found response
-        response = create_response()
-        response['Message'] = f'No files found containing {search_phrase}'
-        response_code = 404
+        response = create_response(False,
+        f'No files found containing {search_phrase}',
+        404)
 
     # If error occured while searching
     elif df_result.empty and not not_in_db:
@@ -75,23 +86,23 @@ def search():
         log.error('Error while searching the DB')
 
         # Creating internal server error response
-        response = create_response()
-        response['Message'] = f'Error occured while searching {search_phrase}'
-        response_code = 500
+        response = create_response(False,
+        f'Error occured while searching {search_phrase}',
+        500)
 
     else:
         # For files found containing the phrase in DB
         log.info(f'Files found containing {search_phrase}')
 
         # Creating successful response
-        response = create_response()
-        response['Status'] = True
+        resp, resp_code = create_response(True,'Matches Found', 200)
         # Adding Data in the response as list of dict
-        response['Data'] = df_result.to_dict('records')
-        response_code = 200
+        resp['Data'] = df_result.to_dict('records')
+        # Creating response
+        response = resp, resp_code
 
     # Returning request successful response
-    return response, response_code
+    return response
 
 
 if __name__ == '__main__':
