@@ -31,6 +31,7 @@ The solution is using following python modules:
 * dropbox
 * datetime
 * pdftotext
+* apscheduler
 * configparser
 * elasticsearch
 
@@ -39,6 +40,7 @@ The solution is using following python modules:
 
 In config.ini file the following configuration needs to be done:
 
+* minutes       : Interval in which the synchronization needs to happen
 * access_token  : Dropbox Access Token generated for a dropbox folder or full dropbox with correct permissions (_share.write_, _files.metadata.read_ and _files.content.read_)
 * end_point     : Elasticsearch Cloud endpoint
 * username      : Elasticsearch Username
@@ -49,13 +51,15 @@ In config.ini file the following configuration needs to be done:
 ## Files
 --------
 
-* config.ini          : Configuration file
-* connectors.py       : Module creating connector objects and constants for Elasticsearch DB and Dropbox from configuration
-* search_api.py       : Main driver script to run the backend search API
-* extarct_text.py     : Module containing functions to extract text from docx, pdf and txt files
-* logger.py           : Module containing logger
-* db_connect.py       : Module containing functions to perform elasticsearch related operations
-* dropbox_connect.py  : Module containing functions to perform dropbox related operations
+* config.ini            : Configuration file
+* connectors.py         : Module creating connector objects and constants for Elasticsearch DB and Dropbox from configuration
+* search_api.py         : Main driver script to run the backend search API
+* extarct_text.py       : Module containing functions to extract text from docx, pdf and txt files
+* logger.py             : Module containing logger
+* db_connect.py         : Module containing functions to perform elasticsearch related operations
+* dropbox_connect.py    : Module containing functions to perform dropbox related operations
+* sync_resolver.json    : JSON file being used and synchronization resolver
+* synchronizing_data.py : Module containing synchronization of data and create response related functions
 
 
 ## NOTE to Evaluator
