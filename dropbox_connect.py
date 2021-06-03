@@ -1,7 +1,7 @@
 """
 @author: Abhilash Raj
 
-Module containing helper functions for connecting to elastic search
+Module containing helper functions for connecting to dropbox
 """
 import pandas as pd
 from connecters import dbx, columns
