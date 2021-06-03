@@ -20,7 +20,7 @@ def search_db(search_phrase):
     # Creating empty DataFrame
     df = pd.DataFrame()
     try:
-
+        
         log.info('Creating query to perform the search')
         # Creating query for searching Elasticsearch
         query = {

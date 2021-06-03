@@ -46,19 +46,25 @@ def __get_file_data(path):
 def get_dropbox_files():
     """Function to get all the file data from the dropbox
     Return(s):
-        df_dbx (pandas.DataFrame) : Pandas DataFrame containining file data
+        df_dbx, status (pandas.DataFrame) : Pandas DataFrame containining file data and status of retrival
     """
 
     log.info("Fetching data from dropbox")
 
     # Creating empty dataframe
     df_dbx = pd.DataFrame()
+    status = False
 
     try:
         # Getting the list of files in dropbox
         df_dbx[columns['FILE_PATH']] = [
             file.path_display for file in dbx.files_list_folder("",).entries
         ]
+
+        if df_dbx.empty:
+            return df_dbx, not status
+
+        log.warning('No Files in dropbox')
 
         # Retriving all the required data for files
         df_dbx[list(columns.values())[:-1]] = df_dbx[columns['FILE_PATH']].apply(__get_file_data)
@@ -67,10 +73,13 @@ def get_dropbox_files():
         df_dbx = df_dbx[columns.values()]
 
         log.info("Fetching data from dropbox successful")
+        df_dbx.to_excel('sample.xlsx', index=False)
+
+        status = not status
 
     except Exception as e:
         log.error(f"{str(e)}")
         log.error("Fetching data from dropbox failed")
 
     # Returning the dataframe
-    return df_dbx
+    return df_dbx, status
