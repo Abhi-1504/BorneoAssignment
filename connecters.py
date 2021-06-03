@@ -31,6 +31,9 @@ es_index_name = config.get("elasticsearch", "index_name")
 # Extracting elasticsearch doc columns
 columns = json.loads(config.get("elasticsearch", "doc_columns"))
 
+# Extracting minutes for periodic interval of sync
+minutes = int(config.get('interval', 'minutes'))
+
 # Creating Dropbox connector object
 dbx = Dropbox(dropbox_access_token)
 
