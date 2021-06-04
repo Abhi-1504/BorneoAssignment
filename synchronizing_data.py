@@ -76,7 +76,7 @@ def sync_data(request_time=None):
         # For request recieved for time less than the half of periodic sync of DB
         elif request_time != None and time_diff < (minutes / 2):
             log.warning("Synchronization recently finished")
-            response = create_respone(
+            response = create_response(
                 False, "Syncronization recently completed. Try again later", 406
             )
 
