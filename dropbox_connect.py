@@ -3,11 +3,14 @@
 
 Module containing helper functions for connecting to dropbox
 """
-import pandas as pd
-from connecters import dbx, columns
+import pandas as pd  # For storing data
+from connecters import dbx, columns  # For dropbox connections
 from io import BytesIO  # To store content of file in memory
-from logger import log
-from extract_text import extract_text_from_pdf, extract_text_from_docx
+from logger import log  # For logging
+from extract_text import (
+    extract_text_from_pdf,
+    extract_text_from_docx,
+)  # For extracting text
 
 # This function is being called by dataframe apply method only
 def __get_file_data(path):
@@ -57,23 +60,25 @@ def get_dropbox_files():
 
     try:
         # Getting the list of files in dropbox
-        df_dbx[columns['FILE_PATH']] = [
+        df_dbx[columns["FILE_PATH"]] = [
             file.path_display for file in dbx.files_list_folder("",).entries
         ]
 
         if df_dbx.empty:
             return df_dbx, not status
 
-        log.warning('No Files in dropbox')
+        log.warning("No Files in dropbox")
 
         # Retriving all the required data for files
-        df_dbx[list(columns.values())[:-1]] = df_dbx[columns['FILE_PATH']].apply(__get_file_data)
+        df_dbx[list(columns.values())[:-1]] = df_dbx[columns["FILE_PATH"]].apply(
+            __get_file_data
+        )
 
         # Re-arranging the dataframe columns
         df_dbx = df_dbx[columns.values()]
 
         log.info("Fetching data from dropbox successful")
-        df_dbx.to_excel('sample.xlsx', index=False)
+        df_dbx.to_excel("sample.xlsx", index=False)
 
         status = not status
 

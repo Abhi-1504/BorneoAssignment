@@ -5,12 +5,12 @@ Module to create logger for all modules used
 and log file directory
 """
 
-import os
-import logging
-from datetime import datetime
+import os  # For System Path
+import logging  # For logging
+from datetime import datetime  # For creating logs based on date
 
 # Today's date as string
-today = datetime.today().strftime('%Y-%m-%d')
+today = datetime.today().strftime("%Y-%m-%d")
 
 # Creating directory to store log
 if not os.path.exists("logs"):

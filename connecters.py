@@ -4,7 +4,7 @@
 Module containing connectors to Elasticsearch DB and Dropbox
 """
 
-import json
+import json  # For parsing sync resolver
 from dropbox import Dropbox  # To connect to dropbox API
 from configparser import RawConfigParser  # To load configuration
 from elasticsearch import Elasticsearch  # ElasticSearch ORM
@@ -32,7 +32,7 @@ es_index_name = config.get("elasticsearch", "index_name")
 columns = json.loads(config.get("elasticsearch", "doc_columns"))
 
 # Extracting minutes for periodic interval of sync
-minutes = int(config.get('interval', 'minutes'))
+minutes = int(config.get("interval", "minutes"))
 
 # Creating Dropbox connector object
 dbx = Dropbox(dropbox_access_token)
