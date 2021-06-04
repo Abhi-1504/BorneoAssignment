@@ -10,7 +10,11 @@ from flask import request  # For accessing request queries
 from connecters import minutes  # minutes for periodic interval of sync
 from db_connect import search_db  # For elasticsearch operations
 from datetime import datetime as dt  # For Synchronizing time
-from synchronizing_data import sync_data, create_response  # For Syncing data
+from synchronizing_data import (
+    sync_resolve,
+    sync_data,
+    create_response,
+)  # For Syncing data
 from apscheduler.schedulers.background import (
     BackgroundScheduler,
 )  # For Sceduling synchronizer
@@ -55,6 +59,13 @@ def search():
 
     log.info("Request received")
 
+    # Checking for in progress DB synchronization
+    sync_resolver = sync_resolve()
+    if sync_resolver["Synchronizing"]:
+        log.warning("DB Synchronization in progress, cannot process request")
+        return create_response(
+            False, "Data Synchronizing in Progress, try after sometime.", 423
+        )
     # Checking no query in the request
     if "q" not in request.args:
         log.error(f"No query found in request")
@@ -112,4 +123,4 @@ def search():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=3000)
+    app.run(debug=True, threaded=True, port=3000)
