@@ -53,10 +53,11 @@ def sync_data(request_time=None):
 
     sync_resolver = sync_resolve()
 
-    if len(sync_resolver) == 0:
-        log.error("Updating/Loading Synchronization resolver failed")
-        raise ValueError
     try:
+        if len(sync_resolver) == 0:
+            log.error("Updating/Loading Synchronization resolver failed")
+            raise ValueError
+
         # For first time run of the sync api
         if "Sync Stop Time" in sync_resolver.keys() and request_time != None:
             last_sync_time = dt.fromisoformat(sync_resolver["Sync Stop Time"])
@@ -124,7 +125,11 @@ def sync_data(request_time=None):
 
     except Exception as e:
         log.error(f"{str(e)}")
+
+        # Resstting the sync resolver to initial value
         response = create_response(False, "Syncronisation Failed", 500)
+        with open("sync_resolver.json", "w") as f:
+            json.dump({"Synchronizing": False}, f, indent=4)
 
     return response
 
