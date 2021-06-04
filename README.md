@@ -14,6 +14,11 @@ The solution is written in Python 3 language and requires some additional librar
 * dropbox_connect.py
 * search_api.py
 * extract_text.py
+* templates
+* forms.py
+* search_ui.py
+* sync_resolver.json
+* synchronizing_data.py
 
 
 ## Dependencies
@@ -60,6 +65,8 @@ In config.ini file the following configuration needs to be done:
 * dropbox_connect.py    : Module containing functions to perform dropbox related operations
 * sync_resolver.json    : JSON file being used and synchronization resolver
 * synchronizing_data.py : Module containing synchronization of data and create response related functions
+* search_ui.py          : Module driver script to run frontend search UI
+* templates             : Directory containing Jinja templates for frontend
 
 
 ## NOTE to Evaluator
