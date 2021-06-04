@@ -56,17 +56,18 @@ In config.ini file the following configuration needs to be done:
 ## Files
 --------
 
-* config.ini            : Configuration file
-* connectors.py         : Module creating connector objects and constants for Elasticsearch DB and Dropbox from configuration
-* search_api.py         : Main driver script to run the backend search API
-* extarct_text.py       : Module containing functions to extract text from docx, pdf and txt files
-* logger.py             : Module containing logger
-* db_connect.py         : Module containing functions to perform elasticsearch related operations
-* dropbox_connect.py    : Module containing functions to perform dropbox related operations
-* sync_resolver.json    : JSON file being used and synchronization resolver
-* synchronizing_data.py : Module containing synchronization of data and create response related functions
-* search_ui.py          : Module driver script to run frontend search UI
-* templates             : Directory containing Jinja templates for frontend
+* config.ini              : Configuration file
+* connectors.py           : Module creating connector objects and constants for Elasticsearch DB and Dropbox from configuration
+* search_api.py           : Main driver script to run the backend search API
+* extarct_text.py         : Module containing functions to extract text from docx, pdf and txt files
+* logger.py               : Module containing logger
+* db_connect.py           : Module containing functions to perform elasticsearch related operations
+* dropbox_connect.py      : Module containing functions to perform dropbox related operations
+* sync_resolver.json      : JSON file being used and synchronization resolver
+* synchronizing_data.py   : Module containing synchronization of data and create response related functions
+* search_ui.py            : Module driver script to run frontend search UI
+* templates               : Directory containing Jinja templates for frontend
+* unittest_search_api.py  : Module containing unit testing of search api endpoints
 
 
 ## NOTE to Evaluator
