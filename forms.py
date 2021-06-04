@@ -1,3 +1,9 @@
+"""
+@author: Abhilash Raj
+
+Module to create Search Form in UI
+"""
+
 from flask_wtf import FlaskForm  # For creating form
 from wtforms import StringField, SubmitField  # Fields in form
 from wtforms.validators import DataRequired  # Form validation
