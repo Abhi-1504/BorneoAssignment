@@ -78,7 +78,6 @@ def get_dropbox_files():
         df_dbx = df_dbx[columns.values()]
 
         log.info("Fetching data from dropbox successful")
-        df_dbx.to_excel("sample.xlsx", index=False)
 
         status = not status
 
