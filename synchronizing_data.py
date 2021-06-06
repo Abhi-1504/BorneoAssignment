@@ -106,7 +106,6 @@ def sync_data(request_time=None):
             elif df_dbx.empty and not status:
                 # Releasing the resource because of failure
                 sync_resolver["Synchronizing"] = False
-                sync_resolver["Sync Stop Time"] = dt.now().isoformat()
                 sync_resolve(True, sync_resolver)
                 raise ValueError
             else:
