@@ -38,4 +38,4 @@ minutes = int(config.get("interval", "minutes"))
 dbx = Dropbox(dropbox_access_token)
 
 # Creating Elasticsearch connector object
-es = Elasticsearch(es_endpoint, http_auth=("elastic", "HUbkdahmsWnFtmsMGv9fzBtC"))
+es = Elasticsearch(es_endpoint, http_auth=(es_username, es_password))
